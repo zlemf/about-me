@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+
+.main {
+    background-color: rgb(255, 255, 255);
+
+    margin: auto;
+
+    margin-top: 30px;
+
+    width: 1100px;
+
+    padding: 30px;
+
+    border: 2px #6fc27a solid;
+
+    border-radius: 16px;
+    text-shadow: 3px 5px 6px#3a4142;
+}
+
+h1 {
+    margin-top: 0%;
+}
+
+a {
+    padding: 4px 20px;
+}
+
+/* @-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+} */
+
+.rrr {
+    width: 300px;
+    margin: 1000px auto 0 auto;
+    height: 300px;
+}
+img {
+    width: 200px;
+}
