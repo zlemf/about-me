@@ -1,14 +1,14 @@
 body {
-    background-color: #ffff;
+    background-color: #fffefe;
     font-family: 'Alumni Sans Collegiate One', sans-serif;
 }
 
 .main {
-   
+   text-shadow: 3px 5px 6px rgb(72, 72, 73);
 
     margin: auto;
 
-
+position: relative; 
     margin-top: 30px;
 
     width: 1100px;
@@ -41,7 +41,17 @@ margin:50px auto;
 .sodseti{
     border: 3px #747b7c solid;
     background-color: #8ad5df;
-    border-radius: 16px;
-    text-shadow: 3px 5px 6px rgb(72, 72, 73); 
+    border-radius: 20px;
+    text-shadow: 5px 5px 5px rgb(72, 72, 73); 
 }
-
+.fisryk
+{
+    border: 3px #747b7c solid;
+    background-color: #8ad5df;
+    border-radius: 20px;
+    text-shadow: 5px 5px 5px rgb(72, 72, 73);   
+    margin:right;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,0);
+}
